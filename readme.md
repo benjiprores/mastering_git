@@ -1,4 +1,4 @@
 ## Welcome to Git
 
-## Oh i'm testing readme
-- I am Adrian the nerd dev lol
+## Oh i'm testing readme 
+-Yo John here what's going on
