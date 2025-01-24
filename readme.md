@@ -1,4 +1,4 @@
-## Heyoo, Everyone welcome to my git guide!
+## Welcome to Git
 
 ## Oh i'm testing readme 
 -Yo John here what's going on
